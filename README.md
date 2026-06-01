@@ -279,7 +279,6 @@ Feel free to use, modify, and extend the work with proper attribution.
 
 We express our sincere gratitude to:
 
-- Allah سبحانه وتعالى
 - Prof. Mohamad Al Rahhal
 - College of Applied Computer Sciences
 - King Saud University
